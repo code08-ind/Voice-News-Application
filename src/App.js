@@ -5,7 +5,7 @@ import React, { useState, useEffect } from 'react';
 import { Typography } from '@material-ui/core';
 import NewsCards from './components/NewsCards/NewsCards';
 
-const alanKey = '34b56535ab0089a8e4ccb858997d57df2e956eca572e1d8b807a3e2338fdd0dc/stage';
+const alanKey = '<API Key>';
 
 const App = () => {
   document.title = "Voice News Application";
